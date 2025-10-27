@@ -1,0 +1,42 @@
+
+main{
+   padding: 10px;
+   margin-left: 26%;
+    
+}
+input{
+    padding: 5px;
+    border: 1px solid #b17994;
+    width:50%;
+}
+label{
+    color:#4b668a;
+}
+h1,h2{
+    color: #b17994;
+    font-weight: bold;
+    text-align:start;
+}
+.cuenta{
+    width: fit-content;
+}
+fieldset{
+     border: 1px solid #b17994;
+}
+button{
+    padding: 10px;
+    margin-top: 2%;
+    background: #b17994;
+    border-radius: 5px;
+    
+}
+.btComprar{
+    margin-left: 10%;
+}
+.btCancelar{
+    margin-left: 20%;
+}
+ footer {position:relative; color: #b17994;; text-align: start; line-height: 60px;font-weight: bold; }
+
+
+
